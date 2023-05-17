@@ -4,7 +4,7 @@ Django se centra en las aplicaciones controladas por datos, por lo que proporcio
 
 ### Objetivos de aprendizaje
 
-* *l propósito de un ORM.
+* El propósito de un ORM.
 * Cómo configurar y activar la base de datos de SQLite de Django.
 * Cómo crear y activar modelos de Django.
 * Por qué el método `__str__` es una adición importante en las clases.
