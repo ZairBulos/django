@@ -70,9 +70,9 @@ El proyecto de inicio usa un archivo requirements.txt para incluir la lista de t
 
 En la misma ventana de terminal, ejecute el comando siguiente para instalar los paquetes necesarios.
 
-    ```Bash
-    pip install -r requirements.txt
-    ```
+```Bash
+pip install -r requirements.txt
+```
 
 ### Creación de la base de datos
 

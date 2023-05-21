@@ -167,7 +167,7 @@ Ejecute el comando siguiente dentro de la ventana del terminal en Visual Studio 
 django-admin startproject helloproject .
 ```
 
-> ℹ️ **Importante** <br/>
+> ❗ **Importante** <br/>
 > El punto final del comando es importante. Indica a `django-admin` que use la carpeta actual. Si deja fuera este punto final, se creará un subdirectorio adicional.
 
 Después de ejecutar el comando anterior, el proyecto nuevo debe estar ahora en el directorio elegido. En esta instancia, verá una carpeta nueva denominada *helloproject*.
